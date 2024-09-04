@@ -1,6 +1,5 @@
-### Hi👋, I'm Camilo. I like cars and coding
-![alt text](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/34479b70744351.5bad3c9b78262.gif)
-
+[![header](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/34479b70744351.5bad3c9b78262.gif)
+# Hi👋, I'm Camilo.
 <!--
 **camilolcoder/camilolcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
