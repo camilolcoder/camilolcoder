@@ -1,5 +1,7 @@
-![header](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/34479b70744351.5bad3c9b78262.gif)
-# Hi👋, I'm Camilo.
+![Black Beige Elegant Business Tips Youtube Banner](https://github.com/user-attachments/assets/a6833453-04dc-4155-8f01-8187fce579b4)
+## Some useful links:
+- [Medium](https://medium.com/@cammilo)
+- [LinkedIn](https://www.linkedin.com/in/jc-colmenares/)
 <!--
 **camilolcoder/camilolcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
